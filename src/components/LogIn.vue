@@ -17,7 +17,7 @@
         <br>
         <input type="text" id="password" name="password" placeholder="Password...">
         </div>
-        <button type="submit">Sign out </button>
+        <button type="submit">Sign in </button>
     </form>
    
 </div>
